@@ -1,1 +1,1 @@
-# nftapp-server
+# nft-marketplace-backend
